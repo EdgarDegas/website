@@ -18,13 +18,13 @@ body {
 }
 
 #word {
-    font-size: 16px;
+    font-size: 24px;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 #subword {
-    font-size: 12px;
+    font-size: 16px;
     display: flex;
     justify-content: center;
     align-items: center;
