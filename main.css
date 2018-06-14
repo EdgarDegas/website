@@ -30,6 +30,14 @@ body {
     align-items: center;
 
 }
+
+#footnote {
+    font-size: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
 #show {
     display: flex;
     justify-content: center;
